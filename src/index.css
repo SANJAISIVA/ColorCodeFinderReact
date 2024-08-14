@@ -73,3 +73,29 @@ button {
     display: block;
     cursor: pointer;
 }
+
+@media (max-width:540px) {
+    header > h1 {
+        font-size: 25px;
+    }
+}
+
+
+@media (max-width:440px) {
+      
+    .square {
+        height: 150px;
+        width: 150px;
+    }
+
+    input, button {
+        width: 150px;
+    }
+
+}
+
+@media (max-width:440px) {
+    header > h1 {
+        font-size: 20px;
+    }
+}
