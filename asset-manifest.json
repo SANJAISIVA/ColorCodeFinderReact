@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ColorCodeFinderReact/static/css/main.dda36c97.css",
+    "main.css": "/ColorCodeFinderReact/static/css/main.faf0176f.css",
     "main.js": "/ColorCodeFinderReact/static/js/main.842fa688.js",
     "index.html": "/ColorCodeFinderReact/index.html",
-    "main.dda36c97.css.map": "/ColorCodeFinderReact/static/css/main.dda36c97.css.map",
+    "main.faf0176f.css.map": "/ColorCodeFinderReact/static/css/main.faf0176f.css.map",
     "main.842fa688.js.map": "/ColorCodeFinderReact/static/js/main.842fa688.js.map"
   },
   "entrypoints": [
-    "static/css/main.dda36c97.css",
+    "static/css/main.faf0176f.css",
     "static/js/main.842fa688.js"
   ]
 }
