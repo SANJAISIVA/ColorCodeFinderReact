@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ColorCodeFinderReact/static/css/main.69049eb5.css",
+    "main.js": "/ColorCodeFinderReact/static/js/main.842fa688.js",
+    "index.html": "/ColorCodeFinderReact/index.html",
+    "main.69049eb5.css.map": "/ColorCodeFinderReact/static/css/main.69049eb5.css.map",
+    "main.842fa688.js.map": "/ColorCodeFinderReact/static/js/main.842fa688.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69049eb5.css",
+    "static/js/main.842fa688.js"
+  ]
+}
